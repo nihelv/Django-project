@@ -1,1 +1,2 @@
-# Django_firstpjt
+03.20
+django를 통한 프로젝트 생성
